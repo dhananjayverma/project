@@ -1,0 +1,17 @@
+[07-Mar-2024 18:53:21 UTC] PHP Warning:  Undefined array key "firstname" in /home/medizvsu/gurudwara.mediamellow.com/register1/register.php on line 27
+[07-Mar-2024 18:53:21 UTC] PHP Warning:  Undefined array key "lastname" in /home/medizvsu/gurudwara.mediamellow.com/register1/register.php on line 28
+[07-Mar-2024 18:53:21 UTC] PHP Warning:  Undefined array key "Email" in /home/medizvsu/gurudwara.mediamellow.com/register1/register.php on line 29
+[07-Mar-2024 18:53:21 UTC] PHP Warning:  Undefined array key "password" in /home/medizvsu/gurudwara.mediamellow.com/register1/register.php on line 30
+[07-Mar-2024 18:53:21 UTC] PHP Warning:  Undefined array key "fullName" in /home/medizvsu/gurudwara.mediamellow.com/register1/register.php on line 31
+[07-Mar-2024 18:53:21 UTC] PHP Warning:  Undefined array key "phoneNumber" in /home/medizvsu/gurudwara.mediamellow.com/register1/register.php on line 33
+[07-Mar-2024 18:53:21 UTC] PHP Warning:  Undefined array key "city" in /home/medizvsu/gurudwara.mediamellow.com/register1/register.php on line 37
+[07-Mar-2024 18:53:21 UTC] PHP Warning:  Undefined array key "p1FirstName" in /home/medizvsu/gurudwara.mediamellow.com/register1/register.php on line 41
+[07-Mar-2024 18:53:21 UTC] PHP Warning:  Undefined array key "p1LastName" in /home/medizvsu/gurudwara.mediamellow.com/register1/register.php on line 42
+[07-Mar-2024 18:53:21 UTC] PHP Warning:  Undefined array key "p1CountryCode" in /home/medizvsu/gurudwara.mediamellow.com/register1/register.php on line 43
+[07-Mar-2024 18:53:21 UTC] PHP Warning:  Undefined array key "p1PhoneNumber" in /home/medizvsu/gurudwara.mediamellow.com/register1/register.php on line 44
+[07-Mar-2024 18:53:21 UTC] PHP Warning:  Undefined array key "p2FirstName" in /home/medizvsu/gurudwara.mediamellow.com/register1/register.php on line 45
+[07-Mar-2024 18:53:21 UTC] PHP Warning:  Undefined array key "p2LastName" in /home/medizvsu/gurudwara.mediamellow.com/register1/register.php on line 46
+[07-Mar-2024 18:53:21 UTC] PHP Warning:  Undefined array key "p2CountryCode" in /home/medizvsu/gurudwara.mediamellow.com/register1/register.php on line 47
+[07-Mar-2024 18:53:21 UTC] PHP Warning:  Undefined array key "p2PhoneNumber" in /home/medizvsu/gurudwara.mediamellow.com/register1/register.php on line 48
+[07-Mar-2024 18:53:21 UTC] PHP Warning:  Undefined array key "liveImage" in /home/medizvsu/gurudwara.mediamellow.com/register1/register.php on line 51
+[07-Mar-2024 18:53:21 UTC] PHP Warning:  file_put_contents(images/user_65ea0d21e8815.png): Failed to open stream: No such file or directory in /home/medizvsu/gurudwara.mediamellow.com/register1/register.php on line 61
